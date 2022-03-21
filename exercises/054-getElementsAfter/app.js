@@ -1,3 +1,3 @@
 function getElementsAfter(array, n) {
-  // your code here
+return newArray = array.slice(n+1)
 }

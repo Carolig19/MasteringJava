@@ -1,3 +1,4 @@
 function removeFromFrontOfNew(arr) {
-    // your code here
+let sin = arr.shift()
+return arr
 }

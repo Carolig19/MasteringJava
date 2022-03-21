@@ -1,4 +1,3 @@
 function computePerimeterOfACircle(radius) {
-  // your code here
-
+return radius*(3.141592653589793 *2)
 }

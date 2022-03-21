@@ -1,3 +1,4 @@
 function removeFromFront(arr) {
-    // your code here
+arr.shift(arr.length-1)
+return arr
 }
